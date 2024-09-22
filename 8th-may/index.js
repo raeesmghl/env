@@ -57,4 +57,3 @@ console.log(isPrime(8))
 console.log(isPrime(9))
 console.log(isPrime(10))
 console.log(isPrime(11))
-
