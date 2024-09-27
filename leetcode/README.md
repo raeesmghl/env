@@ -31,7 +31,7 @@ function expect(val) {
 
 
 
-# 2704. To Be Or Not To Be
+# 2667. Create Hello World Function
 
 
 ```javascript
